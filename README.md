@@ -4,7 +4,7 @@
    <a href="https://github.com/marcosofx">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosofx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosofx&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosofx&theme=nightowl&show_icons=true"/>
 
 </div>
 <div style="display: inline_block"><br>
