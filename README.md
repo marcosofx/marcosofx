@@ -52,9 +52,10 @@ Gosto de transformar problemas reais em soluções tecnológicas, sempre buscand
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosofx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+Acompanhe minhas atividades, projetos e contribuições diretamente pelo GitHub.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosofx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+
 
 </div>
 
@@ -62,27 +63,17 @@ Gosto de transformar problemas reais em soluções tecnológicas, sempre buscand
 
 ## 📈 Contribution Activity
 
-<div align="center">
+Atualmente desenvolvendo soluções envolvendo desenvolvimento de aplicações, APIs, integração de sistemas e monitoramento de infraestrutura.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosofx&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
+Confira meus repositórios:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosofx/marcosofx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosofx/marcosofx/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/marcosofx/marcosofx/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+
+
 
 </div>
 
----
 
 <div align="center">
 
