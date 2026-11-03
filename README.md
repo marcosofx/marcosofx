@@ -79,6 +79,6 @@ Confira meus repositórios:
 
 ### 💡 Transformando ideias em soluções através da tecnologia.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer"/>
 
 </div>
